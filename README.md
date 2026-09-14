@@ -5,7 +5,7 @@
 
 [![Email](https://img.shields.io/badge/Email-mohhamedfadel8%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mohhamedfadel8@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Fadel-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-fadel-200741313/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Here-FF6B6B?style=flat-square&logo=vercel&logoColor=white)](https://lovable.dev/projects/8e496bcc-d164-4d55-b977-fecd3ba9009f)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Here-FF6B6B?style=flat-square&logo=vercel&logoColor=white)]([https://lovable.dev/projects/8e496bcc-d164-4d55-b977-fecd3ba9009f](https://mohamedfadel-dev.lovable.app))
 [![Resume](https://img.shields.io/badge/Resume-Download-4CAF50?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1ytozMGyxgsI8yAn4GzSdyNn6ptKXwb8G/view?usp=sharing)
 
 <img src="https://komarev.com/ghpvc/?username=MohamedFadel&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
