@@ -111,27 +111,3 @@ Gained practical exposure to industrial automation, control systems, and sensor-
 | Networking, Data Center, Wireless & VoIP, Cybersecurity | MCIT | Aug 2025 |
 | CCNA – Networking Fundamentals | Self-Study | Feb 2025 |
 | Industrial Automation Training | Schneider Electric | Sep 2024 |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedFadel&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</div>
-
----
-
-<div align="center">
-  <i>"Infrastructure is the foundation — automate it, monitor it, trust it."</i>
-  <br/><br/>
-  <b>📫 Open to DevOps Engineer · Cloud Engineer · Networking Engineer roles</b>
-</div>
-
----
-
-### ✍️ Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical"/>
-</p>
